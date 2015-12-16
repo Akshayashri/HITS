@@ -3,7 +3,7 @@
 % Author: Tuomas Kynkaanniemi, 2015
 close all
 clear all;
-% M(i,j) = 1, if page i has a link to page j
+% G(i,j) = 1, if page i has a link to page j
 % Example:
 %           [ 0 1 1; 
 %      G  =   0 0 1; 
